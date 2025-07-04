@@ -225,7 +225,7 @@ export default function NotAEcosystemLanding() {
                 </div>
 
                 <div className="font-jersey text-lg leading-relaxed text-white bg-black p-4 crt-border">
-                  &gt; Built this for getting real thoughts and reviews from actual people.
+                  &gt; Built this for getting real thoughts and reviews from ai personas.
                   <br />
                   &gt; No social judging. Just honest opinions.
                   <br />
